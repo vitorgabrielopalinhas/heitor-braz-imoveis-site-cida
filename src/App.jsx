@@ -51,7 +51,7 @@ function App() {
     { src: img9ab31ad2, alt: 'Imagem WhatsApp 9ab31ad2' }
   ]
 
-   const whatsappNumber = "5543996079849"
+   const whatsappNumber = "554396079849"
   const whatsappMessage = "Olá! Tenho interesse na casa do programa Minha Casa Minha Vida em Alvorada do Sul. Gostaria de mais informações!"
 
   const nextImage = () => {
@@ -247,7 +247,7 @@ function App() {
               onClick={() => window.open(`tel:+${whatsappNumber}`, '_self')}
             >
               <Phone className="h-6 w-6 mr-3" />
-              (43) 99607-9849
+              (43) 9607-9849
             </Button>
           </div>
         </div>
@@ -266,7 +266,7 @@ function App() {
             className="text-green-400 hover:text-green-300"
           >
             <MessageCircle className="h-5 w-5 mr-2" />
-            WhatsApp: (43) 99607-9849
+            WhatsApp: (43) 9607-9849
           </Button>
         </div>
       </footer>
