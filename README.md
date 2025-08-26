@@ -63,7 +63,7 @@ O número do WhatsApp está configurado como: **+55 43 9607-9849**
 
 Para alterar o número:
 1. Abra o arquivo `src/App.jsx`
-2. Procure por `whatsappNumber = "5543960798490"`
+2. Procure por `whatsappNumber = "554396079849"`
 3. Altere para o novo número (formato: código do país + DDD + número)
 4. Execute `npm run build` para gerar nova versão
 
